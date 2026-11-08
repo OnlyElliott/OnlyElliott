@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Elliott — Thoughtful ideas. Useful software.</title>
+  <desc id="desc">A midnight blue banner with mint lettering and an abstract interface illustration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse"><stop stop-color="#111F2C"/><stop offset="1" stop-color="#0A121B"/></linearGradient>
+    <linearGradient id="card" x1="794" y1="100" x2="1080" y2="330" gradientUnits="userSpaceOnUse"><stop stop-color="#233A43"/><stop offset="1" stop-color="#14232F"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#87B7AE" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="420" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="20" fill="url(#grid)"/>
+  <path d="M0 0H1200" stroke="#9BF3CF" stroke-opacity=".55" stroke-width="4"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <circle cx="60" cy="59" r="4" fill="#9BF3CF"/>
+    <text x="76" y="64" fill="#C7D8DF" font-size="14" font-weight="600" letter-spacing="2.4">ELLIOTT / @ONLYELLIOTT</text>
+    <text x="56" y="163" fill="#F3F6F4" font-size="61" font-weight="700" letter-spacing="-2.5">Thoughtful ideas.</text>
+    <text x="56" y="236" fill="#9BF3CF" font-size="61" font-weight="700" letter-spacing="-2.5">Useful software.</text>
+    <text x="59" y="284" fill="#ADC0C9" font-size="19">Web experiences. Practical tools. Better everyday workflows.</text>
+    <path d="M59 338H99" stroke="#9BF3CF" stroke-width="2"/>
+    <text x="113" y="343" fill="#ABC0C8" font-size="12" letter-spacing="2">DESIGN · BUILD · REFINE</text>
+  </g>
+  <g>
+    <circle cx="965" cy="211" r="147" stroke="#9BF3CF" stroke-opacity=".13"/>
+    <circle cx="965" cy="211" r="176" stroke="#9BF3CF" stroke-opacity=".06"/>
+    <path d="M813 115L1119 307M824 327L1106 100" stroke="#9BF3CF" stroke-opacity=".09"/>
+    <rect x="835" y="96" width="254" height="209" rx="15" transform="rotate(9 835 96)" fill="#0C1822" stroke="#395453"/>
+    <rect x="794" y="116" width="275" height="207" rx="15" fill="url(#card)" stroke="#5B8278"/>
+    <path d="M794 154H1069" stroke="#5B8278" stroke-opacity=".5"/>
+    <circle cx="815" cy="135" r="3" fill="#9BF3CF"/>
+    <circle cx="828" cy="135" r="3" fill="#71958E"/>
+    <circle cx="841" cy="135" r="3" fill="#48676A"/>
+    <rect x="814" y="174" width="96" height="8" rx="4" fill="#C8E5DC"/>
+    <rect x="814" y="192" width="148" height="5" rx="2.5" fill="#648E89"/>
+    <rect x="814" y="214" width="101" height="86" rx="7" fill="#9BF3CF" fill-opacity=".08" stroke="#9BF3CF" stroke-opacity=".18"/>
+    <path d="M831 279L850 263L867 270L896 241" stroke="#9BF3CF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="896" cy="241" r="4" fill="#9BF3CF"/>
+    <rect x="929" y="214" width="120" height="23" rx="5" fill="#9BF3CF" fill-opacity=".12"/>
+    <path d="M941 225H1005" stroke="#91B9AD" stroke-width="4" stroke-linecap="round"/>
+    <rect x="929" y="246" width="120" height="23" rx="5" fill="#9BF3CF" fill-opacity=".06"/>
+    <path d="M941 257H1019" stroke="#668D85" stroke-width="4" stroke-linecap="round"/>
+    <path d="M931 287H994" stroke="#648E89" stroke-width="5" stroke-linecap="round"/>
+    <rect x="1004" y="278" width="45" height="18" rx="9" fill="#9BF3CF"/>
+    <rect x="1026" y="78" width="90" height="52" rx="12" fill="#9BF3CF"/>
+    <path d="M1057 95L1047 104L1057 113M1085 95L1095 104L1085 113M1075 93L1067 115" stroke="#112B2C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="803" cy="325" r="19" fill="#122C2D" stroke="#9BF3CF" stroke-opacity=".5"/>
+    <path d="M795 325L801 331L811 319" stroke="#9BF3CF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1122 203V215M1116 209H1128" stroke="#9BF3CF" stroke-width="1.5" stroke-linecap="round"/>
+    <circle cx="914" cy="61" r="3" fill="#9BF3CF" fill-opacity=".5"/>
+  </g>
+</svg>
